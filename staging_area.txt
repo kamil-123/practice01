@@ -1,0 +1,1 @@
+staging area is the space with prepared files for repositing adding comment the add to local repository and finally to push to remote repository

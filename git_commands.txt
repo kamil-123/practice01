@@ -1,0 +1,9 @@
+git status	vypise status
+git add . prida do staging area
+git config --global user.email drozdk@centrum.cz nakonfiguruje emailovou adresu do git musi to byt adresa na github
+git commit -m "created html file" vytvori local repository
+git remote add origin https://github.com/kamil-123/test.git vytvori kopii do remote repository
+
+zpet
+v github novy repository initialize readme
+git clone https://github.com/kamil-123/RemoteToLocal.git naklonuje 
