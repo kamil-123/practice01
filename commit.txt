@@ -1,2 +1,2 @@
 git commit -m "meaningful comment that explains what you're doing"
-added some newv line
+added some new line
